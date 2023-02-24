@@ -139,7 +139,37 @@ Faça experimentos com o bot. Provavelmente, você verá que ele pode responder 
 
 Após a criação do serviço de pesquisa cognitiva e do serviço de bot da Azure, conforme link acima, você pode criar uma página HTML simples para incorporar o seu bot criado e integir com o mesmo.
 
-Para isso você precisa do código de incorporação. Dentro do recurso de Bot do Azure você deve clicar **Canais** e depois em **Web ChaT.**
+1-Para isso você precisa do código de incorporação. Dentro do recurso de Bot do Azure você deve clicar **Canais** e depois em **Web ChaT.**
 
 ![Criação de um recurso.](https://github.com/kakarodrigues/botAzure/blob/main/2-create-canais.png)
+
+
+
+2-Depois clique em Default Site e copie o código de incorporação. Copie também a primeira chave secreta.
+
+![Criação de um recurso.](https://github.com/kakarodrigues/botAzure/blob/main/3-create-canais.png)
+
+
+3-Agora você pode usar o template abaixo gerado pelo Chatgpt para criar uma página html. Substitua YOUR SECRET HERE pela sua chave secreta, copiada anteriormente.
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Exemplo de incorporação de um chatbot em uma página HTML</title>
+    <style>
+      #chatbot-logo {
+        display: block; /* Define o elemento como bloco para ocupar toda a largura disponível */
+        margin: 0 auto; /* Define as margens esquerda e direita para "auto" para centralizar horizontalmente */
+      }
+    </style>
+  </head>
+  <body>
+    <img id="chatbot-logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/SENAI_S%C3%A3o_Paulo_logo.png/1280px-SENAI_S%C3%A3o_Paulo_logo.png" alt="Logo do chatbot">
+    <h1>Bem-vindo ao meu chatbot</h1>
+    <p>Aqui está o meu chatbot:</p>
+		<!COLOQUE O CÓDIGO DE INCORPORAÇÃO ABAIXO>
+    <iframe id="chatbot-iframe" src='https://webchat.botframework.com/embed/language-lucassalomao-bot?s=YOUR_SECRET_HERE' style='min-width: 400px; width: 100%; min-height: 500px;'></iframe>
+  </body>
+</html>
 
