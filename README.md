@@ -153,5 +153,7 @@ Após a criação do serviço de pesquisa cognitiva e do serviço de bot da Azur
 3-Agora você pode usar o template abaixo gerado pelo Chatgpt para criar uma página html. 
   
   Substitua YOUR SECRET HERE pela sua chave secreta, copiada anteriormente.
+  
+  
 
-[Créditos para:](https://senaisp.notion.site/senaisp/Criando-uma-p-gina-Web-para-incorporar-um-bot-da-Azure-5c33e8d76ea8428180b3aece9643df93)
+[Créditos: Lucas Salomão](https://senaisp.notion.site/senaisp/Criando-uma-p-gina-Web-para-incorporar-um-bot-da-Azure-5c33e8d76ea8428180b3aece9643df93)
