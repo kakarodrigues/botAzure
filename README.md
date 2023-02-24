@@ -135,11 +135,11 @@ Faça experimentos com o bot. Provavelmente, você verá que ele pode responder 
 - Para saber mais sobre o Serviço de Bot da Microsoft, veja [a página do Serviço de Bot do Azure](https://azure.microsoft.com/services/bot-service/).vice/question-answering/overview).
 - Para saber mais sobre o Serviço de Bot da Microsoft, veja [a página do Serviço de Bot do Azure](https://azure.microsoft.com/services/bot-service/).
 
-## Criar uma página Web para incorporar um bot da Azure
+# Criar uma página Web para incorporar um bot da Azure
 
 Após a criação do serviço de pesquisa cognitiva e do serviço de bot da Azure, conforme link acima, você pode criar uma página HTML simples para incorporar o seu bot criado e integir com o mesmo.
 
 Para isso você precisa do código de incorporação. Dentro do recurso de Bot do Azure você deve clicar **Canais** e depois em **Web ChaT.**
 
-(https://github.com/kakarodrigues/botAzure/blob/main/2-create-canais.png)
+![Criação de um recurso de Serviço de Linguagem com o recurso de respostas às perguntas personalizadas habilitado.](https://github.com/kakarodrigues/botAzure/blob/main/2-create-canais.png)
 
