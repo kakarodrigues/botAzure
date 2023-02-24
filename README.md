@@ -141,3 +141,5 @@ Após a criação do serviço de pesquisa cognitiva e do serviço de bot da Azur
 
 Para isso você precisa do código de incorporação. Dentro do recurso de Bot do Azure você deve clicar **Canais** e depois em **Web ChaT.**
 
+(https://github.com/kakarodrigues/botAzure/blob/main/2-create-canais.png)
+
