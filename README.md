@@ -137,12 +137,13 @@ Faça experimentos com o bot. Provavelmente, você verá que ele pode responder 
 
 # Criar uma página Web para incorporar um bot da Azure
 
+[Créditos: Lucas Salomão](https://senaisp.notion.site/senaisp/Criando-uma-p-gina-Web-para-incorporar-um-bot-da-Azure-5c33e8d76ea8428180b3aece9643df93)
+
 Após a criação do serviço de pesquisa cognitiva e do serviço de bot da Azure, conforme link acima, você pode criar uma página HTML simples para incorporar o seu bot criado e integir com o mesmo.
 
 1-Para isso você precisa do código de incorporação. Dentro do recurso de Bot do Azure você deve clicar **Canais** e depois em **Web ChaT.**
 
 ![Criação de um recurso.](https://github.com/kakarodrigues/botAzure/blob/main/2-create-canais.png)
-
 
 
 2-Depois clique em Default Site e copie o código de incorporação. Copie também a primeira chave secreta.
@@ -154,6 +155,6 @@ Após a criação do serviço de pesquisa cognitiva e do serviço de bot da Azur
   
   Substitua YOUR SECRET HERE pela sua chave secreta, copiada anteriormente.
   
-  [Criação de um recurso.](https://github.com/kakarodrigues/botAzure/blob/main/4-create-canais.PNG)
+![Criação de um recurso.](https://github.com/kakarodrigues/botAzure/blob/main/4-create-canais.PNG)
 
-[Créditos: Lucas Salomão](https://senaisp.notion.site/senaisp/Criando-uma-p-gina-Web-para-incorporar-um-bot-da-Azure-5c33e8d76ea8428180b3aece9643df93)
+
