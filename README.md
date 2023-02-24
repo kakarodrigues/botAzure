@@ -19,7 +19,7 @@ O recurso de respostas às perguntas personalizadas do serviço de Linguagem per
     - **Recursos padrão**: *mantenha os recursos padrão*.
     - **Recursos personalizados**: *selecione a opção respostas às perguntas personalizadas*.
 
-    ![Criação de um recurso de Serviço de Linguagem com o recurso de respostas às perguntas personalizadas habilitado.](media/create-a-bot/create-language-service-resource.png)
+    ![Criação de um recurso de Serviço de Linguagem com o recurso de respostas às perguntas personalizadas habilitado.](https://github.com/kakarodrigues/botAzure/blob/main/1-create-language-service-resource.png)
 
 1. Na página **Criar linguagem**, especifique as seguintes configurações:
     - **Assinatura**: *sua assinatura do Azure*.
