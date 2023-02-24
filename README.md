@@ -150,7 +150,10 @@ Após a criação do serviço de pesquisa cognitiva e do serviço de bot da Azur
 ![Criação de um recurso.](https://github.com/kakarodrigues/botAzure/blob/main/3-create-canais.png)
 
 
-3-Agora você pode usar o template abaixo gerado pelo Chatgpt para criar uma página html. Substitua YOUR SECRET HERE pela sua chave secreta, copiada anteriormente.
+3-Agora você pode usar o template abaixo gerado pelo Chatgpt para criar uma página html. 
+  
+  Substitua YOUR SECRET HERE pela sua chave secreta, copiada anteriormente.
+
 
 <!DOCTYPE html>
 <html>
@@ -172,4 +175,3 @@ Após a criação do serviço de pesquisa cognitiva e do serviço de bot da Azur
     <iframe id="chatbot-iframe" src='https://webchat.botframework.com/embed/language-lucassalomao-bot?s=YOUR_SECRET_HERE' style='min-width: 400px; width: 100%; min-height: 500px;'></iframe>
   </body>
 </html>
-
